@@ -61,6 +61,9 @@ Genel ekran:
 
 
 
+VScode ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/vscode.png)
 
 
 
