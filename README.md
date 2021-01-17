@@ -65,5 +65,14 @@ VScode ekranı:
 
 ![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/vscode.png)
 
+Firebase config ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/firebaseConfig.png)
+
+App-routing ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/app-routing.png)
+
+
 
 
