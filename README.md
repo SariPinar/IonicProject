@@ -55,6 +55,12 @@ Eklenen stok güncelleme gösterim ekranı:
 
 ![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil7.png)
 
+Genel ekran:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobilSonn.png)
+
+
+
 
 
 
