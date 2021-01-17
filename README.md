@@ -11,3 +11,22 @@ cd IonicProject/
 sudo npm install --save-dev @angular-devkit/build-angular 
 
 sudo ionic serve 
+
+PROJE TANITIMI
+Stok takip projesi. 
+Kullanıcılar için firebase kimlik doğrulaması bulunmaktadır.
+Kayıt ol, giriş yap, şifremi unuttum işlemlerini yapabilmektedir. 
+Kullanıcılar stokta bulunan ürünlerini isim, stok kodu, adet, alış fiyatı ve satış fiyatı olarakl kaydederler. Bu kayıtları silebilir ya da güncelleyebilir. Eklenen stoklar ve bilgileri firebase üzerinde firestoreda tutulmaktadır.
+
+Proje oluşturulurken oluşturulan ve kullanılan "page"ler
+- login
+- sign-up
+- password-reset
+- services
+- home
+
+"home page" stok işlemlerini yaptığımız sayfadır.
+
+"stock interface" oluşturulmuştur.
+"auth.service" ve "firestore.service" service page altında oluşturulmuştur ve projenin service işlemleri burada yapılmıştır.
+
