@@ -30,3 +30,31 @@ Proje oluşturulurken oluşturulan ve kullanılan "page"ler
 "stock interface" oluşturulmuştur.
 "auth.service" ve "firestore.service" service page altında oluşturulmuştur ve projenin service işlemleri burada yapılmıştır.
 
+Login ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil1.png)
+
+
+Kayıt olma ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil6.png)
+
+Sifre yenileme ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil5.png)
+
+Örnek bir stok ekleme ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil3.png)
+
+Eklenen stok gösterimi ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil3.png)
+
+Eklenen stok güncelleme gösterim ekranı:
+
+![a](https://github.com/SariPinar/IonicProject/blob/master/mobil/mobil7.png)
+
+
+
+
