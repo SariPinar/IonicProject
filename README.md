@@ -1,4 +1,5 @@
 # IonicProject
+# 170202049 - Pınar SARI - Stok takip uygulaması
 
 KURULUM
 
@@ -8,9 +9,9 @@ git clone -b master https://github.com/SariPinar/IonicProject.git
 
 cd IonicProject/
 
-sudo npm install --save-dev @angular-devkit/build-angular 
+npm install --save-dev @angular-devkit/build-angular 
 
-sudo ionic serve 
+ionic serve 
 
 PROJE TANITIMI
 Stok takip projesi. 
